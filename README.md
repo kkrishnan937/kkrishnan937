@@ -8,13 +8,27 @@
   <img src="https://img.shields.io/badge/Focus-Business_Systems_Analysis-7C3AED?style=for-the-badge" alt="Focus: Business Systems Analysis" />
 </p>
 
-## 👋 Hi, I'm Kailas
+<p align="center">
+  <b>“The first requirement is understanding the problem.”</b><br />
+  <sub>A principle behind this portfolio</sub>
+</p>
 
-I'm a Business Systems Analyst interested in how business processes, data, and software fit together. I work with requirements, user stories, process and data modelling, and UAT, supported by hands-on learning in SQL, cloud infrastructure, and application delivery.
+<p align="center">
+  <a href="#-about-me">About</a> ·
+  <a href="#-selected-projects">Projects</a> ·
+  <a href="#-tools-and-technologies">Toolkit</a> ·
+  <a href="#-building-next">What's next</a>
+</p>
 
-This portfolio brings together my analytical projects and technical learning. Each project explains its scope, limitations, and whether the work was individual or collaborative.
+---
 
-### 🧭 What I bring
+## 👋 About me
+
+I'm **Kailas Krishnan**, a Business Systems Analyst based in Saskatoon, Canada. I'm interested in how business processes, data, and software fit together—especially where unclear requirements or unreliable data get in the way.
+
+My work spans **requirements, user stories, process and data modelling, and UAT**. Hands-on projects in SQL, cloud infrastructure, and application delivery help me understand the systems behind those requirements.
+
+### 🧭 How I approach the work
 
 | 🟦 Business analysis | 🟩 Data and validation | 🟪 Technical understanding |
 |---|---|---|
@@ -22,30 +36,36 @@ This portfolio brings together my analytical projects and technical learning. Ea
 | Process and data modelling | KPI definitions and reporting | AWS, containers, and Kubernetes |
 | Acceptance criteria and UAT | Interpreting evidence and limitations | Understanding delivery tradeoffs |
 
-## 🚀 Explore my work
+## 🚀 Selected projects
+
+Explore the implementation, methods, and limitations behind each project.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/01-APPLICATION_%26_CLOUD-7C3AED?style=flat-square" alt="Project 01: application and cloud" />
+
 ### 🛒 ShopStack
-**Application delivery · AWS · Technical analysis**
+**React · Node.js · PostgreSQL · AWS EKS**
 
-A three-tier e-commerce learning project using React, Node.js, PostgreSQL, Terraform, Helm, and AWS EKS. Includes architecture explanations and deployment screenshots.
+An e-commerce learning project deployed with Terraform, Helm, and AWS EKS. Explore the architecture, implementation choices, and deployment evidence.
 
-🟣 **Next extension:** a BA case study on checkout reliability, requirements, and UAT. This extension is planned.
+🟣 **Planned extension:** checkout reliability, requirements, and UAT.
 
 <a href="https://github.com/kkrishnan937/shopstack"><img src="https://img.shields.io/badge/Explore-ShopStack-7C3AED?style=for-the-badge" alt="Explore ShopStack" /></a>
 
 </td>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/02-COLLABORATIVE_ANALYSIS-0D9488?style=flat-square" alt="Project 02: collaborative analysis" />
+
 ### 🏙️ Toronto Apartment Evaluation
-**Collaborative project · Data analysis · Tableau**
+**Data exploration · Modelling · Tableau**
 
 A group project exploring Toronto apartment-building evaluations through analysis, modelling, and a shared dashboard.
 
-🟢 **Contribution:** shared effort across the project. The Tableau dashboard is hosted on a teammate's account; group attribution is documented.
+🟢 **Group project:** shared analysis and development. The dashboard is hosted on a teammate's account.
 
 <a href="https://github.com/kkrishnan937/Toronto-apartment-data-analysis"><img src="https://img.shields.io/badge/Explore-Toronto_Analysis-0D9488?style=for-the-badge" alt="Explore Toronto apartment analysis" /></a>
 
@@ -54,24 +74,28 @@ A group project exploring Toronto apartment-building evaluations through analysi
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/03-SQL_EXPLORATION-2563EB?style=flat-square" alt="Project 03: SQL exploration" />
+
 ### 📊 Data Analyst Job Market
 **PostgreSQL · Joins · CTEs · Aggregation**
 
 Five SQL queries exploring advertised salaries and skill demand in remote Data Analyst postings.
 
-🔵 **Scope:** query construction and analytical reasoning. Dataset provenance and saved outputs still need to be added for reproducibility.
+🔵 **Learning project:** queries documented; dataset attribution and saved results remain to be added.
 
 <a href="https://github.com/kkrishnan937/SQL_PROJECT_DATA_ANALYSIS"><img src="https://img.shields.io/badge/Explore-SQL_Analysis-2563EB?style=for-the-badge" alt="Explore SQL job-market analysis" /></a>
 
 </td>
 <td width="50%" valign="top">
 
+<img src="https://img.shields.io/badge/04-ANALYTICAL_REASONING-D97706?style=flat-square" alt="Project 04: analytical reasoning" />
+
 ### 🚗 Australian Car Listings
 **MySQL · Pricing · Metric interpretation**
 
 Exploratory SQL analysis of vehicle listings, brand-level prices, fuel types, and an experimental shortlist.
 
-🟠 **Analytical focus:** distinguishing asking prices from value retention, and documenting the limits of a mixed-unit score.
+🟠 **Focus:** interpreting metrics carefully, including asking prices and an experimental value score.
 
 <a href="https://github.com/kkrishnan937/australian-car-market-sql-analysis"><img src="https://img.shields.io/badge/Explore-Car_Analysis-D97706?style=for-the-badge" alt="Explore Australian car listings analysis" /></a>
 
@@ -79,7 +103,7 @@ Exploratory SQL analysis of vehicle listings, brand-level prices, fuel types, an
 </tr>
 </table>
 
-## 🧰 Tools I work with and study
+## 🧰 Tools and technologies
 
 **Analysis and collaboration**
 
@@ -107,11 +131,19 @@ Exploratory SQL analysis of vehicle listings, brand-level prices, fuel types, an
 
 **ShopStack: Checkout Reliability and Requirements Analysis**
 
-The planned case study will connect potential defects to business consequences, define business rules and acceptance criteria, and trace requirements through testing. Reproduced findings, completed work, and measured results will be labelled separately from proposals.
+<img src="https://img.shields.io/badge/Status-PLANNED-7C3AED?style=flat-square" alt="Status: planned" />
+
+The next portfolio extension will connect checkout issues to business consequences and testable requirements:
+
+| 🔎 Investigate | 📝 Define | ✅ Validate |
+|---|---|---|
+| Reproduce defects and map the current process | Specify business rules and acceptance criteria | Trace requirements to tests and record evidence |
+
+This is planned work. Results will be published after implementation and validation.
 
 ---
 
 <p align="center">
-  <b>Clear requirements. Thoughtful questions. Evidence that holds up.</b><br />
+  <b>Business context → Clear requirements → Verified outcomes</b><br />
   <a href="https://www.linkedin.com/in/kailas-krishnan/">Connect with me on LinkedIn ↗</a>
 </p>
