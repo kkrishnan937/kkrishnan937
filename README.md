@@ -24,7 +24,7 @@
 
 ## 👋 About me
 
-I'm **Kailas Krishnan**, a Business Systems Analyst based in Saskatoon, Canada. I'm interested in how business processes, data, and software fit together—especially where unclear requirements or unreliable data get in the way.
+I'm **Kailas Krishnan**, a Business Analyst based in Saskatoon, Canada. I'm interested in how business processes, data, and software fit together—especially where unclear requirements or unreliable data get in the way.
 
 My work spans **requirements, user stories, process and data modelling, and UAT**. Hands-on projects in SQL, cloud infrastructure, and application delivery help me understand the systems behind those requirements.
 
