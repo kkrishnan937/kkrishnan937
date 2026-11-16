@@ -21,9 +21,9 @@ I'm a **Business Analyst based in Saskatoon, Canada**, interested in how busines
 
 I work with requirements, user stories, process and data modelling, and UAT. My hands-on projects in SQL, cloud infrastructure and application delivery help me understand the systems behind the requirements.
 
-> “The important and difficult job is never to find the right answers—it is to find the right questions!”
+> “The important and difficult job is never to find the right answers; it is to find the right questions!”
 >
-> **— Peter Drucker**
+> **Peter Drucker**
 
 ## Featured work
 
