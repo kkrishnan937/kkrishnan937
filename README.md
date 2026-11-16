@@ -23,7 +23,7 @@ I work with requirements, user stories, process and data modelling, and UAT. My 
 
 > “The important and difficult job is never to find the right answers—it is to find the right questions!”
 >
-> **— Peter Drucker** · [Source](https://www.stern.nyu.edu/sites/default/files/assets/documents/con_044994.pdf)
+> **— Peter Drucker**
 
 ## Featured work
 
