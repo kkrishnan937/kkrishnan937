@@ -21,7 +21,9 @@ I'm a **Business Analyst based in Saskatoon, Canada**, interested in how busines
 
 I work with requirements, user stories, process and data modelling, and UAT. My hands-on projects in SQL, cloud infrastructure and application delivery help me understand the systems behind the requirements.
 
-> **The first requirement is understanding the problem.**
+> “The important and difficult job is never to find the right answers—it is to find the right questions!”
+>
+> **— Peter Drucker** · [Source](https://www.stern.nyu.edu/sites/default/files/assets/documents/con_044994.pdf)
 
 ## Featured work
 
