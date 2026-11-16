@@ -1,161 +1,122 @@
 <p align="center">
-  <img src="assets/profile-banner.gif" width="100%" alt="My portfolio: business analysis, data and technical understanding. Animated chart bars." />
+  <img src="assets/profile-header.svg" width="100%" alt="Kailas Krishnan. Business analysis, data and systems. Turning business questions into clear requirements and connecting decisions to evidence." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kailas-krishnan/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Location-Saskatoon%2C_Canada-0D9488?style=for-the-badge" alt="Based in Saskatoon, Canada" />
-  <img src="https://img.shields.io/badge/Focus-Business_Systems_Analysis-7C3AED?style=for-the-badge" alt="Focus: Business Systems Analysis" />
+  <a href="https://kkrishnan937.github.io/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0F766E?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Explore my portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/kailas-krishnan/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-2563EB?style=for-the-badge" alt="Connect on LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <b>“The first requirement is understanding the problem.”</b><br />
-  <sub>A principle behind this portfolio</sub>
+  <a href="#about">About</a> &nbsp; / &nbsp;
+  <a href="#featured-work">Featured work</a> &nbsp; / &nbsp;
+  <a href="#data-projects">Data projects</a> &nbsp; / &nbsp;
+  <a href="#toolkit">Toolkit</a>
 </p>
 
-<p align="center">
-  <a href="#-about-me">About</a> ·
-  <a href="#-selected-projects">Projects</a> ·
-  <a href="#-tools-and-technologies">Toolkit</a> ·
-  <a href="#-featured-ba-case-study">BA case study</a>
-</p>
+## About
 
----
+I'm a **Business Analyst based in Saskatoon, Canada**, interested in how business processes, data and software fit together.
 
-<p align="center">
-  <a href="https://kkrishnan937.github.io/shopstack-ba-portfolio/"><img src="https://img.shields.io/badge/View_my-BA_Portfolio-0D9488?style=for-the-badge" alt="View my Business Analysis portfolio website" /></a>
-</p>
+I work with requirements, user stories, process and data modelling, and UAT. My hands-on projects in SQL, cloud infrastructure and application delivery help me understand the systems behind the requirements.
 
-## 👋 About me
+> **The first requirement is understanding the problem.**
 
-I'm a Business Analyst based in Saskatoon, Canada. I'm interested in how business processes, data, and software fit together especially where unclear requirements or unreliable data get in the way.
+## Featured work
 
-My work spans **requirements, user stories, process and data modelling, and UAT**. Hands-on projects in SQL, cloud infrastructure, and application delivery help me understand the systems behind those requirements.
-
-### 🧭 How I approach the work
-
-| 🟦 Business analysis | 🟩 Data and validation | 🟪 Technical understanding |
-|---|---|---|
-| Requirements and user stories | SQL exploration and data checks | APIs and application behaviour |
-| Process and data modelling | KPI definitions and reporting | AWS, containers, and Kubernetes |
-| Acceptance criteria and UAT | Interpreting evidence and limitations | Understanding delivery tradeoffs |
-
-## 🚀 Selected projects
-
-Explore the implementation, methods, and limitations behind each project.
+Two independent case studies showing how I move from an unclear problem to a reviewable decision.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/01-BUSINESS_ANALYSIS-7C3AED?style=flat-square" alt="Project 01: business analysis" />
+#### 01 &nbsp; / &nbsp; BUSINESS &amp; SYSTEMS ANALYSIS
 
-### 🛒 ShopStack: My BA Case Study
-**Discovery · Requirements · Process modelling · Acceptance evidence**
+### ShopStack
+**Making the cart journey clear and testable**
 
-I investigated a missing cart-review journey, refined business rules and acceptance criteria, and connected my analysis to a working read-only cart slice.
+Investigated a missing cart-review journey and connected business rules, acceptance criteria and process models to a working cart-viewing slice.
 
-I acted as the **Business Analyst**, using AI agents to simulate the sponsor, product owner, developer, tester, UX and customer-reviewer roles. Agents also assisted with documentation, implementation and automated testing.
+**Explore:** discovery · requirements · wireframes · traceability · acceptance evidence
 
-**Actual evidence:** 9 planned test families and 6 supplemental checks passed on embedded PostgreSQL and PostgreSQL 17. Another 28 planned families remain Not run; independent customer UAT and business sign-off are outstanding.
+**Evidence:** 9 planned test families and 6 supplemental checks passed locally and in CI. Another 28 planned families remain not run; independent customer UAT and business sign-off are outstanding.
 
-<a href="https://kkrishnan937.github.io/shopstack-ba-portfolio/"><img src="https://img.shields.io/badge/Read-My_BA_Case_Study-0D9488?style=for-the-badge" alt="Read my ShopStack BA portfolio website" /></a>
+**[Read the case study ↗](https://kkrishnan937.github.io/shopstack.html)**
 
-[BA documents and evidence](https://github.com/kkrishnan937/shopstack-ba-portfolio) · [Application source](https://github.com/kkrishnan937/shopstack)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/02-COLLABORATIVE_ANALYSIS-0D9488?style=flat-square" alt="Project 02: collaborative analysis" />
-
-### 🏙️ Toronto Apartment Evaluation
-**Data exploration · Modelling · Tableau**
-
-A group project exploring Toronto apartment-building evaluations through analysis, modelling, and a shared dashboard.
-
-🟢 **Group project:** shared analysis and development. The dashboard is hosted on a teammate's account.
-
-<a href="https://github.com/kkrishnan937/Toronto-apartment-data-analysis"><img src="https://img.shields.io/badge/Explore-Toronto_Analysis-0D9488?style=for-the-badge" alt="Explore Toronto apartment analysis" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/03-SQL_EXPLORATION-2563EB?style=flat-square" alt="Project 03: SQL exploration" />
-
-### 📊 Data Analyst Job Market
-**PostgreSQL · Joins · CTEs · Aggregation**
-
-Five SQL queries exploring advertised salaries and skill demand in remote Data Analyst postings.
-
-🔵 **Learning project:** queries documented; dataset attribution and saved results remain to be added.
-
-<a href="https://github.com/kkrishnan937/SQL_PROJECT_DATA_ANALYSIS"><img src="https://img.shields.io/badge/Explore-SQL_Analysis-2563EB?style=for-the-badge" alt="Explore SQL job-market analysis" /></a>
+[BA artifacts](https://github.com/kkrishnan937/shopstack-ba-portfolio) &nbsp; · &nbsp; [Application source](https://github.com/kkrishnan937/shopstack)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/04-ANALYTICAL_REASONING-D97706?style=flat-square" alt="Project 04: analytical reasoning" />
+#### 02 &nbsp; / &nbsp; AI USE-CASE &amp; DATA READINESS
 
-### 🚗 Australian Car Listings
-**MySQL · Pricing · Metric interpretation**
+### Municipal Enquiries
+**Testing whether AI supports a sound decision**
 
-Exploratory SQL analysis of vehicle listings, brand-level prices, fuel types, and an experimental shortlist.
+Examined enquiry handling, compared improvement options and assessed a local model against keyword rules using 38 synthetic examples.
 
-🟠 **Focus:** interpreting metrics carefully, including asking prices and an experimental value score.
+**Explore:** process maps · options · data readiness · evaluation · recommendation
 
-<a href="https://github.com/kkrishnan937/australian-car-market-sql-analysis"><img src="https://img.shields.io/badge/Explore-Car_Analysis-D97706?style=for-the-badge" alt="Explore Australian car listings analysis" /></a>
+**Decision:** the model improved clear-case classification but missed too many cases needing review. The recommendation was against operational rollout of either tested method.
+
+**[Read the case study ↗](https://kkrishnan937.github.io/municipal.html)**
+
+[Assessment and evidence](https://github.com/kkrishnan937/municipal-enquiry-ai-assessment)
 
 </td>
 </tr>
 </table>
 
-## 🧰 Tools and technologies
+<sub>These are independent learning projects with simulated stakeholders, not client engagements. AI assisted with role-play, research, drafting, code and testing; the municipal data is synthetic. Project pages distinguish my decisions, executed checks and evidence limitations. No production release or measured business benefits are claimed.</sub>
 
-**Analysis and collaboration**
+## How I approach the work
+
+| Understand the problem | Make it reviewable | Check the evidence |
+| :--- | :--- | :--- |
+| Explore the current process, needs and gaps | Define rules, stories and acceptance criteria | Connect requirements to checks and results |
+| Clarify stakeholders and decision rights | Use process maps, data models and wireframes | Record limitations and unresolved decisions |
+
+## Data projects
+
+| Project | Focus | Explore |
+| :--- | :--- | :--- |
+| **Toronto Apartment Evaluation** | Group analysis, modelling and a shared Tableau dashboard | [View project ↗](https://github.com/kkrishnan937/Toronto-apartment-data-analysis) |
+| **Data Analyst Job Market** | Five PostgreSQL queries exploring advertised salaries and skill demand | [View SQL ↗](https://github.com/kkrishnan937/SQL_PROJECT_DATA_ANALYSIS) |
+| **Australian Car Listings** | MySQL exploration of listing prices, fuel types and an experimental value score | [View analysis ↗](https://github.com/kkrishnan937/australian-car-market-sql-analysis) |
+
+<sub>Toronto is a shared group project; the dashboard is hosted on a teammate's account. The job-market learning project still needs dataset attribution and saved results. Car-listing prices are asking prices; the value score is exploratory.</sub>
+
+## Toolkit
+
+**Analysis &amp; collaboration**
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/SQL-0F766E?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F766E?style=flat-square" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-0F766E?style=flat-square" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power_BI-0F766E?style=flat-square" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-0F766E?style=flat-square" alt="Excel" />
+  <img src="https://img.shields.io/badge/Jira-0F766E?style=flat-square" alt="Jira" />
+  <img src="https://img.shields.io/badge/Postman-0F766E?style=flat-square" alt="Postman" />
 </p>
 
 **Technical learning**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/AWS-334155?style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-334155?style=flat-square" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-334155?style=flat-square" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-334155?style=flat-square" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-334155?style=flat-square" alt="GitHub Actions" />
 </p>
-
-## 🔎 Featured BA case study
-
-### Making the cart clear, reliable and testable
-
-I took ShopStack from an identified customer-journey gap to documented requirements, delivery decisions and actual acceptance evidence.
-
-| What I did | Where to explore |
-|---|---|
-| I investigated the journey and recorded capability gaps | [Discovery and gap analysis](https://github.com/kkrishnan937/shopstack-ba-portfolio/blob/main/docs/process-analysis/gap-register.md) |
-| I defined stories, business rules and acceptance criteria | [Cart requirements](https://github.com/kkrishnan937/shopstack-ba-portfolio/blob/main/docs/requirements/cart-requirements.md) |
-| I made behavior reviewable through diagrams and wireframes | [Process diagrams](https://github.com/kkrishnan937/shopstack-ba-portfolio/blob/main/docs/process-analysis/future-state-diagrams.md) |
-| I connected requirements to actual agent-executed checks | [Execution record and evidence](https://github.com/kkrishnan937/shopstack-ba-portfolio/blob/main/docs/testing/cart-review-2026-10-28.md) |
-
-**[Explore my portfolio website →](https://kkrishnan937.github.io/shopstack-ba-portfolio/)**
-
-This is an independent portfolio project with simulated stakeholder discussions, not a real client engagement. The linked application evidence comes from actual local and CI runs. I do not claim a production release or measured commercial benefits.
-
 
 ---
 
 <p align="center">
-  <b>Business context → Clear requirements → Verified outcomes</b><br />
-  <a href="https://www.linkedin.com/in/kailas-krishnan/">Connect with me on LinkedIn ↗</a>
+  <b>Business context &nbsp; → &nbsp; Clear requirements &nbsp; → &nbsp; Evidence-based decisions</b>
+  <br /><br />
+  <a href="https://kkrishnan937.github.io/">Explore my portfolio</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/kailas-krishnan/">Connect on LinkedIn</a>
 </p>
